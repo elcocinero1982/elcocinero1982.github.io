@@ -1,11 +1,11 @@
 # Site settings
-author: jose luis
-title: 
+author: jose cortez
+title: CORTEZ'S BLOG
 header-img: img/home-bg.png
 email: cortezluisjose@gmail.com
-copyright_name: jose luis
+copyright_name: jose cortez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  elcocinero
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  elcocinero1982
